@@ -1,0 +1,50 @@
+[ua]
+CVAR_SQL_HOST = Хост від бази даних.
+CVAR_SQL_USER = Ім'я користувача від бази данинх.
+CVAR_SQL_PASS = Пароль від бази даних.
+CVAR_SQL_DB = Найменування бази даних.
+CVAR_SQL_TABLE = Найменування таблиці в базі даних.
+CVAR_ACCESS = Флаг доступу для додавання промокоду.
+CVAR_CMD_ADD = Команда для додавання промокоду.
+CVAR_CMD_USE = Команда для використання промокоду.
+
+SQL_CONNECT_ERROR = %s Не вадлось під'єднатись до бази даних.^n%s Відповідь від сервера: %s
+SQL_QUERY_ERROR = %s Помилка запиту.^n%s Відповідь: %s
+
+CONSOLE_PRINT_NO_ACCESS = Відказано в доступі.
+CONSOLE_PRINT_USAGE = Використовуйте: команда <назва>
+CONSOLE_PRINT_USAGE_ADD = Використовуйте: команда <назва> <опис> <кількість використань>
+
+[ru]
+CVAR_SQL_HOST = Хост от базы данных.
+CVAR_SQL_USER = Имя пользователя от базы данных.
+CVAR_SQL_PASS = Пароль от базы данных.
+CVAR_SQL_DB = Название базы данных.
+CVAR_SQL_TABLE = Название таблицы в базе данных.
+CVAR_ACCESS = Флаг доступа для создания промокода.
+CVAR_CMD_ADD = Команда для создания промокода.
+CVAR_CMD_USE = Команда для использования промокода.
+
+SQL_CONNECT_ERROR = %s Не удалось подключится к БД^n%s Ответ от сервера: %s
+SQL_QUERY_ERROR = %s Ошибка запроса!^n%sОтвет:%s
+
+CONSOLE_PRINT_NO_ACCESS = Отказано в доступе.
+CONSOLE_PRINT_USAGE = Используйте: команда <название>
+CONSOLE_PRINT_USAGE_ADD = Используйте: команда <название> <описание> <количество использований>
+
+[en]
+CVAR_SQL_HOST = Host from the database.
+CVAR_SQL_USER = User name from the database.
+CVAR_SQL_PASS = Password from the database.
+CVAR_SQL_DB = Name of the database.
+CVAR_SQL_TABLE = Name of the table in the database.
+CVAR_ACCESS = Access flag for creating a promo code.
+CVAR_CMD_ADD = Command to create a promo code.
+CVAR_CMD_USE = Command to use promo code.
+
+SQL_CONNECT_ERROR = %s Failed to connect to database^n%s Server response: %s
+SQL_QUERY_ERROR = %s Query Error!^n%sResponse:%s
+
+CONSOLE_PRINT_NO_ACCESS = Access denied.
+CONSOLE_PRINT_USAGE = Use: command <name>
+CONSOLE_PRINT_USAGE_ADD = Use: command <name> <description> <number of uses>
